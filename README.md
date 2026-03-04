@@ -21,9 +21,6 @@ This is a simple Invoice Generating System written in C
 - :white_check_mark: Option to `Show` all Previous Invoices
 - :white_check_mark: Option to `Delete` Invoice
 
-## Contributors
-
-- Hardik Mamgain
 
 ## Note
 - Try Running The Code On `Vs Code Editor`
